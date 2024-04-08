@@ -2,6 +2,7 @@
 # 總結
 
 - loader 解密 payload 的方式跟 payload 解 config 方式雷同
+- 執行方式都是 Dll-SideLoading
 
 # 收集
 
